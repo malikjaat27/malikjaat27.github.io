@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Download CV as PDF**](/files/nana.pdf)
+<a href="/files/nana.pdf" download="Maha_Singh_Malik_CV.pdf" class="btn btn--primary">Download My Resume (PDF)</a>
 
 ## Profile
 I’m a data analyst passionate about turning complex datasets into actionable insights. At PwC India, I analyze financial and operational data to drive business optimization. Prospective master student at John Hopkins - Information Systems. Strong in C++/Python, machine learning, and data science. I have experience in AI agents, solving multi-step problems. Exploring terminal benchamarks for AI agents LLM.
